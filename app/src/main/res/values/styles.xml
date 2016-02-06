@@ -1,0 +1,13 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:colorControlHighlight">#66FF0000</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="LYJTheme">
+
+    </style>
+
+</resources>
